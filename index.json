@@ -1,0 +1,20 @@
+{
+  "format": 1,
+  "name": "RomM plugin store",
+  "plugins": [
+    {
+      "id": "rommdeck",
+      "name": "RommDeck",
+      "version": "1.0.0",
+      "description": "Hand a game to RommDeck: it downloads it, then plays it with the emulator EmuDeck installed.",
+      "author": "jkoehler11",
+      "homepage": "https://github.com/jkoehler11/rommdeck-plugin",
+      "manifest_url": "https://raw.githubusercontent.com/jkoehler11/rommdeck-plugin/main/plugin.json",
+      "tags": [
+        "launcher",
+        "emulation",
+        "desktop"
+      ]
+    }
+  ]
+}
