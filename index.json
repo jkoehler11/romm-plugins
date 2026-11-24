@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "name": "RomM plugin store",
+  "name": "ROMulus plugin store",
   "plugins": [
     {
       "id": "rommdeck",
