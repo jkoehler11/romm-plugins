@@ -15,6 +15,21 @@
         "emulation",
         "desktop"
       ]
+    },
+    {
+      "id": "emuready",
+      "name": "EmuReady",
+      "version": "1.6.0",
+      "description": "Compatibility at a glance: EmuReady's reports for this game, counted per emulator, narrowed to the handheld you actually play on.",
+      "author": "jkoehler11",
+      "homepage": "https://github.com/jkoehler11/emuready-plugin",
+      "manifest_url": "https://raw.githubusercontent.com/jkoehler11/emuready-plugin/master/plugin.json",
+      "tags": [
+        "compatibility",
+        "emulation",
+        "handheld",
+        "pc"
+      ]
     }
   ]
 }
