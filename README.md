@@ -11,9 +11,9 @@ executed, and ROMulus never fetches this index until the store tab is opened.
 
 ```json
 {
-  "id": "rommdeck",
-  "name": "RommDeck",
-  "version": "1.0.0",
+  "id": "rommarcade",
+  "name": "RomMArcade",
+  "version": "0.1.0",
   "description": "One sentence about what pressing it does.",
   "author": "you",
   "homepage": "https://github.com/you/your-plugin",
@@ -29,8 +29,9 @@ failing.
 ## Submitting a plugin
 
 1. Publish the plugin on its own. A plugin is a `plugin.json` plus a README —
-   see [rommdeck-plugin](https://github.com/jkoehler11/rommdeck-plugin) for the
-   shape, including the `settings` fields a plugin can declare.
+   see [rommarcade-plugin](https://github.com/jkoehler11/rommarcade-plugin) for
+   the shape, including the `settings` fields a plugin can declare and the
+   `rommarcade://` handler that makes the button land on a game.
 2. Open a pull request here that adds one entry to `index.json`, and say in the
    description what the plugin does and what it talks to.
 3. What is checked: the manifest parses, every action's URL is http(s) or a

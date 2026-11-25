@@ -3,16 +3,17 @@
   "name": "ROMulus plugin store",
   "plugins": [
     {
-      "id": "rommdeck",
-      "name": "RommDeck",
-      "version": "1.1.0",
-      "description": "Open a game on the machine RommDeck manages: it downloads it if needed, then plays it.",
+      "id": "rommarcade",
+      "name": "RomMArcade",
+      "version": "0.1.0",
+      "description": "Open a game in RomMArcade: it installs the game through EmuDeck if needed, then plays it.",
       "author": "jkoehler11",
-      "homepage": "https://github.com/jkoehler11/rommdeck-plugin",
-      "manifest_url": "https://raw.githubusercontent.com/jkoehler11/rommdeck-plugin/main/plugin.json",
+      "homepage": "https://github.com/jkoehler11/RomMArcade",
+      "manifest_url": "https://raw.githubusercontent.com/jkoehler11/rommarcade-plugin/main/plugin.json",
       "tags": [
         "launcher",
         "emulation",
+        "emudeck",
         "desktop"
       ]
     },
